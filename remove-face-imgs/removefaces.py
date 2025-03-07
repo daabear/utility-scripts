@@ -1,6 +1,10 @@
 import os
+from dotenv import load_dotenv
 
-directory = r"insert route"
+load_dotenv()
+
+route = os.getenv("ROUTE")
+directory = route
 
 def remove_faces(directory, remove_str):  
     for filename in os.listdir(directory):
