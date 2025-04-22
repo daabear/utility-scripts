@@ -1,6 +1,6 @@
 # remove-face-imgs
  
-Script for removing face images for events in [Dynamic SD](https://github.com/originn0/dynamic_social_democracy) so I don't have to do it manually.
+Script for removing face images for events so I don't have to do it manually.
 
 ## How to Use
 ### Prerequisites
